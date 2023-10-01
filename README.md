@@ -6,13 +6,13 @@ In the [previous publication](https://github.com/NelsonBN/art-binary-numbers), I
 ## Numeric systems
 
 * **Binary (Base 2):** Uses only two digits: 0 and 1. It is the fundamental language of computers and digital systems.
- * `0`, `1`
+  * `0`, `1`
 * **Octal (Base 8):** Uses digits from 0 to 7. Although less common nowadays, it was used in older systems.
- * `0`, `1`, `2`, `3`, `4`, `5`, `6`, `7`
+  * `0`, `1`, `2`, `3`, `4`, `5`, `6`, `7`
 * **Decimal (Base 10):** The system we use in our daily lives. This is the system most people are familiar with. Contains digits from 0 to 9.
- * `0`, `1`, `2`, `3`, `4`, `5`, `6`, `7`, `8`, `9`
+  * `0`, `1`, `2`, `3`, `4`, `5`, `6`, `7`, `8`, `9`
 * **Hexadecimal (Base 16):** Uses digits from 0 to 9 and letters from A to F. It is widely used in programming and system design.
- * `0`, `1`, `2`, `3`, `4`, `5`, `6`, `7`, `8`, `9`, `A`, `B`, `C`, `D`, `E`, `F`
+  * `0`, `1`, `2`, `3`, `4`, `5`, `6`, `7`, `8`, `9`, `A`, `B`, `C`, `D`, `E`, `F`
 
 
 ## Conversions from decimal to another base
