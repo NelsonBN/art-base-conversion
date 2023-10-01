@@ -1,6 +1,6 @@
 # Base conversion
 
-In the previous publication, I talked about binary numbers and how we can convert from binary to decimal and vice versa. But in computer science, it is common to encounter numbers in other bases, like hexadecimal, octal, etc. So, in this publication, I am going to discuss how we can convert from one base to another.
+In the [previous publication](https://github.com/NelsonBN/art-binary-numbers), I talked about binary numbers and how we can convert from binary to decimal and vice versa. But in computer science, it is common to encounter numbers in other bases, like hexadecimal, octal, etc. So, in this publication, I am going to discuss how we can convert from one base to another.
 
 
 ## Numeric systems
@@ -185,3 +185,6 @@ def toDecimal(num: str, base: int) -> int:
 ## Conclusion
 
 Understanding the conversion between different numerical bases is fundamental in computer science. This knowledge not only allows us to comprehend how computers interpret and manipulate data, but it is also crucial for those who wish to delve deeper into algorithms and data structures, enabling the perception of optimization opportunities that are not possible with more conventional algorithms.
+
+
+[Blog Post](https://nelsonbn.com/blog/base-conversion)
